@@ -32,7 +32,7 @@ class Cars{
 };
 
 int main(){
-    Cars car1;// objects are nothing but variables of type class
-    car1.setData("Toyota", "altis", "petrol", 15.5, 1500000);
-    car1.displayData();
+        Cars car1, car2, car3, car4; // objects are nothing but variables of type class
+        car1.setData("Toyota", "altis", "petrol", 15.5, 1500000);
+        car1.displayData();
 }
