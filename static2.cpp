@@ -21,4 +21,5 @@ int main(){
         MyClass obj1, obj2;
         cout << "Count after 2 objects: " << MyClass::getCount() << endl;
         //here we have used member functions to access the private part.
+        return 0;
 }
